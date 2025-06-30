@@ -1,16 +1,30 @@
-## Hi there 👋
+# こんにちは！！ゆゆゆです！！
 
-<!--
-**shiratama-kotone/shiratama-kotone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+プログラミング初心者ですけど頑張っていきます！  
+かわいいお菓子が好きです🍬🍰
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- HTMLがちょっとわかります！
+
+---
+
+## 📝 Projects
+- **yuyuyu-made-bbs**  
+  掲示板を作るのが好きです！
+
+---
+
+## 🔗 Links
+- [ポートフォリオ](https://yuyuyu-homepage.netlify.app)
+- [yuyuyu-made-bbs](https://yuyuyu-made-bbs.onreder.com)
+
+---
+
+## 🍭 好きなこと
+- かわいいお菓子
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=shiratama-kotone&show_icons=true&theme=tokyonight)
