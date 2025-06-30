@@ -17,11 +17,11 @@
 ---
 
 ## 🔗 Links
-- [ポートフォリオ](https://yuyuyu-homepage.netlify.app)
-- [yuyuyu-made-bbs](https://yuyuyu-made-bbs.onreder.com)
+- [自分のサイト](https://yuyuyu-homepage.netlify.app)
+- [ゆゆゆ掲示板](https://yuyuyu-made-bbs.onreder.com)
 
 ---
-
+「
 ## 🍭 好きなこと
 - かわいいお菓子
 
